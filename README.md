@@ -29,24 +29,24 @@ My Analysis :
 
 
 
-# 4. Customer Personality Analysis
+# 4. World Weather Repository ( Daily Updating )
 
-CSV File : https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
-
-My Analysis :
-
-
-# 5. Hotel booking demand
-
-CSV File : https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+CSV File : https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository
 
 My Analysis :
 
 
+# 5. Airbnb Open Data
 
-# 6. Supermarket sales
+CSV File : https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
 
-CSV File : https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
+My Analysis :
+
+
+
+# 6. World Educational Data
+
+CSV File : https://www.kaggle.com/datasets/nelgiriyewithana/world-educational-data
 
 My Analysis :
 
@@ -84,9 +84,9 @@ My Analysis :
 
 
 
-# 11. Iris Species
+# 11. Salary Prediction
 
-CSV File : https://www.kaggle.com/datasets/uciml/iris
+CSV File : https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor
 
 My Analysis :
 
@@ -100,9 +100,9 @@ My Analysis :
 
 
 
-# 13. Google Play Store Apps
+# 13. E-Commerce Sales Dataset
 
-CSV File : https://www.kaggle.com/datasets/lava18/google-play-store-apps
+CSV File : https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
 My Analysis :
 
@@ -132,9 +132,9 @@ My Analysis :
 
 
 
-# 17. Women's E-Commerce Clothing Reviews
+# 17. Global Country Information Dataset 2023
 
-CSV File : https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews
+CSV File : https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023
 
 My Analysis :
 
@@ -156,9 +156,9 @@ My Analysis :
 
 
 
-# 20. Customer Shopping Trends Dataset
+# 20. Sleep Health and Lifestyle Dataset
 
-CSV File : https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset
+CSV File : https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 
 My Analysis :
 
